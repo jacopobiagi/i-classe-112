@@ -27,6 +27,7 @@ export default {
         { testo: "non è vero, l'assassino è sempre il gatto del maggiordomo", nome: "Massimolaltro" },
         { testo: "Finalmente le lezioni sono finite!!!", nome: "Francesco" },
         { testo: "Quando una cosa ti va male, rifalla 21 volte", nome: 'Cristopher'},
+        { testo: "questa frase è stupida, non leggerla", nome: "Jacopo"},
       ],
     };
   },
